@@ -22,10 +22,12 @@ Friday is an intelligent engine that runs in a sandbox to dissect, extract IOC a
 4. Friday also identifies evasive malware traits , process calls and can also give you a sneak peak what one should not have in a dynamic analysis machine. 
 
 # HOW DO I RUN ? 
+ 
+ Download the folder that contains Friday and the requirements.txt file and pip install -r requirements.txt
+ 
+1. Create a folder for all your samples and the path can be anything. Change the path in the code which looks like : pathoffile='/home/remnux/Sample/ to the path where you have downloaded the hash files or malware samples. This change has to be done in two places in the code
 
-1. Create a folder for all your samples and the path must be /root/Sample/
-
-2. Download FRIDAY.py and run it as " python FRIDAY.py"
+2. Download Friday.py and run it as " python Friday.py"
 
 3. Enter the hash of the file when it asks
 
