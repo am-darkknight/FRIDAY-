@@ -153,7 +153,7 @@ r2pipe==0.8.8
 rarfile==3.0
 rdflib==4.2.0
 requesocks==0.10.8
-requests==2.11.1
+requests==2.20.0
 requests-cache==0.4.13
 rule-editor==1.0.0
 scikit-learn==0.14.1
