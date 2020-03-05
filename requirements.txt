@@ -183,7 +183,7 @@ vt==1.0.7.8
 watchdog==0.8.3
 weakrefmethod==1.0.3
 websocket-client==0.40.0
-Werkzeug==0.11.15
+Werkzeug==0.15.3
 wxPython==2.8.12.1
 wxPython-common==2.8.12.1
 xortool==0.95
