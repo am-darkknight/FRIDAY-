@@ -130,7 +130,7 @@ pylibemu==0.2.6
 pylzma==0.4.8
 pyOpenSSL==16.2.0
 pyparsing==2.1.10
-PyPDF2==1.25.1a0
+PyPDF2==1.27.5
 pypdns==1.3
 pype32==0.1a4
 pyperclip==1.5.27
