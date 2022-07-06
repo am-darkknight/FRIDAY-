@@ -59,7 +59,7 @@ hachoir-urwid==1.1
 hachoir-wx==0.3
 hpack==2.3.0
 html2text==2016.9.19
-html5lib==0.999999
+html5lib==0.999999999
 httplib2==0.8
 hyperframe==4.0.1
 idna==2.2
